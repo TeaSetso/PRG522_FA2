@@ -18,6 +18,7 @@ namespace PRG522_FA2
             Console.ReadLine();
             Console.WriteLine("Would you like to view another survey ?");
 
+            Console.WriteLine("Thank You!");
 
         }
     }
